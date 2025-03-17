@@ -1,6 +1,6 @@
 -f https://download.pytorch.org/whl/torch_stable.html
 transformers
-torch + cu111
+torch 
 dataset
 numpy
 requests
